@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/afandigit/afandigit/assets/106676180/9b25e1ff-2374-470f-bb7a-2a776d7b40b9)](https://www.linkedin.com/in/afandi-soufiane/)
 <h1 align="center">Hi 👋, I'm AFANDI Soufiane</h1>
-<h3 align="center">I am a Data Analyst, and passionate MEARN stack developer with a focus on SQL, MongoDB, Python, Tailwindcss, JavaScript and PowerBI.</h3>
+<h3 align="center">I am a Data Analyst, and passionate MERN stack developer with a focus on SQL, MongoDB, Python, Tailwindcss, JavaScript and PowerBI.</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/afandigit/afandigit/assets/106676180/032ee739-34a6-45be-a6ed-7d72520f08d5"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afandigit&label=Profile%20views&color=0e75b6&style=flat" alt="afandigit" /> </p>
